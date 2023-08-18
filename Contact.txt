@@ -1,1 +1,4 @@
-Class Contact
+class Contact
+{
+	Contact();
+}
